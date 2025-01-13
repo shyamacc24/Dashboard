@@ -1,0 +1,21 @@
+Index,Image Name,Original Mask Name,Original Mask Pixel Count,Original Mask Pixel %,Predicted Mask Name,Predicted Mask Pixel Count,Predicted Pixel %
+1,1475.png,1475.png,53537,20.42,1475_predicted_mask.png,13162,20.08
+2,1024.png,1024.png,27385,10.45,1024_predicted_mask.png,5526,8.43
+3,1419.png,1419.png,21226,8.1,1419_predicted_mask.png,4758,7.26
+4,963.png,963.png,71229,27.17,963_predicted_mask.png,17396,26.54
+5,274.png,274.png,81449,31.07,274_predicted_mask.png,20383,31.1
+6,1618.png,1618.png,61867,23.6,1618_predicted_mask.png,15758,24.04
+7,1772.png,1772.png,67594,25.79,1772_predicted_mask.png,15832,24.16
+8,1478.png,1478.png,80932,30.87,1478_predicted_mask.png,18757,28.62
+9,1355.png,1355.png,51243,19.55,1355_predicted_mask.png,14040,21.42
+10,56.png,56.png,56860,21.69,56_predicted_mask.png,14670,22.38
+11,29.png,29.png,77038,29.39,29_predicted_mask.png,18650,28.46
+12,912.png,912.png,33317,12.71,912_predicted_mask.png,8183,12.49
+13,1572.png,1572.png,35588,13.58,1572_predicted_mask.png,8958,13.67
+14,390.png,390.png,75854,28.94,390_predicted_mask.png,18217,27.8
+15,1330.png,1330.png,38814,14.81,1330_predicted_mask.png,8239,12.57
+16,577.png,577.png,45398,17.32,577_predicted_mask.png,10873,16.59
+17,64.png,64.png,157225,59.98,64_predicted_mask.png,38247,58.36
+18,152.png,152.png,63697,24.3,152_predicted_mask.png,15696,23.95
+19,1146.png,1146.png,24303,9.27,1146_predicted_mask.png,5275,8.05
+20,86.png,86.png,39822,15.19,86_predicted_mask.png,9628,14.69
